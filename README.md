@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **sonali-rana/sonali-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,12 +8,18 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 
-- 🔭 I'm Sonali Rana, a tech enthusiast and full time Frontend Developer on a mission to create cool stuff with code. Whether it's building sleek websites or diving into complex software, I'm all about making tech fun and accessible.
-- 🌱 I geek out over front-end tools like React.js, React Native and Next.js, and I'm no stranger to the backend with Node.js ,but still on my way around Python. I love turning ideas into reality and making things work like a charm.
-- 👯 When I'm not coding, I'm probably exploring the latest tech buzz, tinkering with side projects, or geeking out on some new coding challenge. Let's connect and create something awesome together! 🚀✨
-- 📫 How to reach me ? Well!, catch me in the coding playground of GitHub! I practically live there, juggling code and turning caffeine into software. 😄 Swing by my profile, drop a line, or maybe even challenge me to a coding duel. Let's turn those 1s and 0s into something amazing together!
-- 😄 Pronouns: she/her/hers .
-- ⚡ Fun fact:I've been known to negotiate with bugs (they're quite stubborn). Embracing the chaos of tech, tacos, and terrific ideas. Crafting some software magic 🌮✨".
+###Hi there 👋 I'm Sonali Rana
+
+🚀 Frontend Developer with 3 years of professional experience building modern web applications using React.js.
+💻 Currently upskilling into Full Stack Development and Agentic AI systems with MERN, LangChain, LangGraph, and RAG applications.
+🌱 I enjoy building clean user experiences, exploring scalable architectures, and turning ideas into real products through code.
+⚛️ Tech I work with:
+React.js • Next.js • Vue • JavaScript • TypeScript • Node.js • MongoDB • Express.js
+🤖 Currently exploring:
+Agentic AI • LangChain • LangGraph • RAG Pipelines • LLM Applications • Python
+🛠️ Outside of work, you'll usually find me experimenting with side projects, learning new technologies, or debugging bugs that somehow disappear when someone else looks at the screen 😄
+📫 Feel free to connect, collaborate, or just talk tech!
+⚡ Fun fact: I convert caffeine into frontend components and occasionally negotiate peace treaties with stubborn bugs.
 
 
 
